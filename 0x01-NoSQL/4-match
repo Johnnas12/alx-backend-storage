@@ -1,0 +1,2 @@
+// finding specific document
+db.find({name="Holberton school"}).forEach(printjson);
