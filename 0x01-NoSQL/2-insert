@@ -1,2 +1,2 @@
 // Inserting data into collection or table
-db.school.insert({name: "Hulberton school"})
+db.school.insert({name: "Hulberton school"});
