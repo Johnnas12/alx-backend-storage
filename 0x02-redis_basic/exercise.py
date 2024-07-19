@@ -124,3 +124,4 @@ def replay(fn: Callable) -> None:
         display += "{}(*{}) -> {}\n".format(
             fnName, i.decode('utf-8'), o.decode('utf-8'))
     print(display, end="")
+
